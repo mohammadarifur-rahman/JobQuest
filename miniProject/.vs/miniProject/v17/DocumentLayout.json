@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal\\JobQuest\\miniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|c:\\personal\\jobquest\\miniproject\\miniproject\\llist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\llist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|C:\\Personal\\JobQuest\\miniProject\\miniproject\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|C:\\Personal\\JobQuest\\miniProject\\miniproject\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|C:\\Personal\\JobQuest\\miniProject\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|C:\\Personal\\JobQuest\\miniProject\\miniproject\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|C:\\Personal\\JobQuest\\miniProject\\miniproject\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|C:\\Personal\\JobQuest\\miniProject\\miniproject\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|C:\\Personal\\JobQuest\\miniProject\\miniproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|C:\\Personal\\JobQuest\\miniProject\\miniproject\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CCF2FF-FD96-451B-99B5-5D0C404CAD79}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Login.cs",
+              "RelativeDocumentMoniker": "miniProject\\Login.cs",
+              "ToolTip": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Login.cs",
+              "RelativeToolTip": "miniProject\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T21:38:37.742Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Jobs.cs",
+              "DocumentMoniker": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Jobs.cs",
+              "RelativeDocumentMoniker": "miniProject\\Jobs.cs",
+              "ToolTip": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Jobs.cs",
+              "RelativeToolTip": "miniProject\\Jobs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:49:08.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cs",
+              "DocumentMoniker": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Add.cs",
+              "RelativeDocumentMoniker": "miniProject\\Add.cs",
+              "ToolTip": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Add.cs",
+              "RelativeToolTip": "miniProject\\Add.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:27:13.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Dashboard.cs",
+              "RelativeDocumentMoniker": "miniProject\\Dashboard.cs",
+              "ToolTip": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Dashboard.cs",
+              "RelativeToolTip": "miniProject\\Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:08:46.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Program.cs",
+              "RelativeDocumentMoniker": "miniProject\\Program.cs",
+              "ToolTip": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Program.cs",
+              "RelativeToolTip": "miniProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:53:40.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Detail.cs",
+              "RelativeDocumentMoniker": "miniProject\\Detail.cs",
+              "ToolTip": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Detail.cs",
+              "RelativeToolTip": "miniProject\\Detail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:32:28.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Data.cs",
+              "RelativeDocumentMoniker": "miniProject\\Data.cs",
+              "ToolTip": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Data.cs",
+              "RelativeToolTip": "miniProject\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:51:22.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LList.cs",
+              "DocumentMoniker": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\LList.cs",
+              "RelativeDocumentMoniker": "miniProject\\LList.cs",
+              "ToolTip": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\LList.cs",
+              "RelativeToolTip": "miniProject\\LList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:22:05.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Home.cs",
+              "RelativeDocumentMoniker": "miniProject\\Home.cs",
+              "ToolTip": "C:\\Personal\\JobQuest\\miniProject\\miniProject\\Home.cs",
+              "RelativeToolTip": "miniProject\\Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:25:58.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
