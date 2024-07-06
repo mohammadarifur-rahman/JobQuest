@@ -1,6 +1,5 @@
-# JobQuest
+# JobQuest ![JobQuest Logo](images/jobs_logo.png)
 
-![JobQuest Logo](images/jobs_logo.png)
 
 JobQuest is a C# WinForms application designed to streamline the management of job applications, providing advanced functionality for tracking and organizing your job search process.
 
@@ -20,11 +19,15 @@ JobQuest is a C# WinForms application designed to streamline the management of j
   
 - **WinForms**: Utilized WinForms for the desktop application framework.
 
+## Planning
+
+![Wireframe](images/wireFrame.png)
+
 ## Screenshots
 
-![Dashboard](link-to-dashboard-screenshot)
-![Job Application List](link-to-job-list-screenshot)
-![Application Details](link-to-application-details-screenshot)
+![Login](images/login_page.png)
+![Dashboard](images/dashboard.png)
+
 
 ## Getting Started
 
@@ -40,6 +43,4 @@ To get started with JobQuest, follow these steps:
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please [open an issue](https://github.com/mohammadarifur-rahman/JobQuest/issues) on GitHub.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
