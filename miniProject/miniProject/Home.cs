@@ -44,9 +44,17 @@ namespace miniProject
 
         private int CalculatePercent(int numerator, int denominator)
         {
-            // Calculate percentage with floating-point division
-            double percentage = ((double) numerator / denominator)*100;
-            int round = (int) Math.Round(percentage);
+            int round;
+            if (denominator > 0)
+            {
+                // Calculate percentage with floating-point division
+                double percentage = ((double)numerator / denominator) * 100;
+                round = (int)Math.Round(percentage);
+            }
+            else
+            {
+                round = 0;
+            }
             return round;
         }
     }

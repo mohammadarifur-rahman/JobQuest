@@ -10,7 +10,7 @@ namespace miniProject
     {
         // csv file path 
 
-        public static string filePath = @"C:\Personal\mssa-repo\Projects\MiniProject\data\jobs.csv";
+        public static string filePath = @"C:\Personal\JobQuest\data\jobs.csv";
         public static LList data;
 
         // Ensure initialization of data

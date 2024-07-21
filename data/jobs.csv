@@ -1,23 +1,4 @@
 ID,CompanyName,Role,JobDescription,LastDate,Status,Started
-1,Vmware,Data Scientist,Analyzing virtualization trends,2024-07-17,Advanced,2024-07-06
-2,Cisco,Software Developer,Developing networking software solutions,2024-07-16,In Progress,2024-07-06
-3,HP,Data Analyst,Analyzing printer sales data,2024-07-13,In Progress,2024-07-06
-4,IBM,Software Engineer,Implementing AI solutions for enterprise clients,2024-07-14,Rejected,2024-07-06
-5,Nvidia,Data Scientist,Researching GPU performance optimization,2024-07-04,Advanced,2024-07-06
-6,Oracle,Software Developer,Building enterprise database solutions,2024-07-09,In Progress,2024-07-06
-7,Intel,Data Analyst,Analyzing semiconductor market data,2024-07-06,Completed,2024-07-06
-8,Adobe,Software Engineer,Developing creative software tools,2024-07-11,In Progress,2024-07-06
-9,Salesforce,Data Scientist,Improving CRM algorithms,2024-07-03,Completed,2024-07-06
-10,LinkedIn,Software Developer,Enhancing professional networking features,2024-06-29,Rejected,2024-07-06
-11,Twitter,Data Analyst,Analyzing social media trends,2024-07-07,Rejected,2024-07-06
-12,Airbnb,Software Engineer,Developing backend systems for booking platform,2024-07-12,Rejected,2024-07-06
-13,Uber,Data Scientist,Optimizing ride-sharing algorithms,2024-07-08,In Progress,2024-07-06
-14,Tesla,Software Developer,Implementing autonomous driving algorithms,2024-06-28,In Progress,2024-07-06
-15,Netflix,Data Analyst,Analyzing content consumption patterns,2024-07-02,Advanced,2024-07-06
-16,Apple,Software Engineer,Designing user interfaces for iOS apps,2024-07-15,Rejected,2024-07-06
-17,Facebook,Data Scientist,Developing machine learning models,2024-07-10,Completed,2024-07-06
-18,Amazon,Software Developer,Writing efficient code for AWS services,2024-06-30,Completed,2024-07-06
-19,Microsoft,Data Analyst,Analyzing user behavior data,2024-07-05,In Progress,2024-07-06
-20,Google,Software Engineer,Developing scalable web applications,2024-07-01,In Progress,2024-07-06
-22,another up,dee,ds,2024-06-27,Advanced,2024-07-06
-24,Testing,test,test,2024-06-27,Rejected,2024-07-06
+1,Southwest, Associate Software Engineer,R-2024-44495 Associate Software Engineer - Warrior Hire Program position,2024-07-14,Rejected,2024-07-16
+2,Intone,.Net Developer(Full Stack),.Net Developer(Full Stack),2024-07-16,Completed,2024-07-16
+3,Mitchell,Junior Full Stack .NET Developer,This is a remote position and can be located anywhere in the US. Must be willing to work in PST time zone for at least 9 AM to 5 PM PST.,2024-07-16,Completed,2024-07-16
